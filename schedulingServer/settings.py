@@ -25,7 +25,7 @@ SECRET_KEY = '_a1rh8-jae=55y(8ncd8hrmfg4hvu_xkgd5b9zopmb1b-o28=('
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['http://www.tysamurai.pythonanywhere.com/']
 
 
 # Application definition
